@@ -1,1 +1,3 @@
-alert('I love Typescript!');
+var future = moment().add('hours', 1).fromNow();
+console.log(future);
+//# sourceMappingURL=app.js.map
